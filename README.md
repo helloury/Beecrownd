@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Resoluções Beecrowd  
 
-Repositório com minhas soluções de problemas da plataforma [Beecrowd](https://www.beecrowd.com.br/).  
+Repositório com minhas soluções de problemas da plataforma [Beecrowd](https://judge.beecrowd.com/pt/categories).  
 Aqui registro meu progresso em **lógica de programação, algoritmos e estruturas de dados**.  
 
 ---

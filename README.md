@@ -1,4 +1,4 @@
-# 🧑‍💻 Resoluções Beecrowd  
+# 👩🏻‍💻 Resoluções Beecrowd  
 
 Repositório com minhas soluções de problemas da plataforma [Beecrowd](https://www.beecrowd.com.br/).  
 Aqui registro meu progresso em **lógica de programação, algoritmos e estruturas de dados**.  

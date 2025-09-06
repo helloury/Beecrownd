@@ -12,3 +12,6 @@ Aqui registro meu progresso em **lógica de programação, algoritmos e estrutur
 └── Beecrowd/
     ├── Estrutura_de_Dados
     └── Iniciante
+```
+### 📌 Cada arquivo segue o padrão:
+**[ID_PROBLEMA]_[Titulo].cpp**

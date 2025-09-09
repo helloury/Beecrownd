@@ -9,9 +9,11 @@ Aqui registro meu progresso em **lógica de programação, algoritmos e estrutur
 
 ```bash
 .
-└── Beecrowd/
-    ├── Estrutura_de_Dados
-    └── Iniciante
+└── beecrowd/
+    ├── Ad-Hoc
+    ├── Estrutura_De_Dados
+    ├── Iniciante
+    └── Matemática
 ```
 ### 📌 Cada arquivo segue o padrão:
 **[ID_PROBLEMA]_[Titulo].cpp**
